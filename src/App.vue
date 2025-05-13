@@ -1,5 +1,9 @@
 <template>
-  <h1>Derick's Resume</h1>
+  <v-sheet>
+    <v-container>
+      <v-btn color="primary">Derick's Resume</v-btn>
+    </v-container>
+  </v-sheet>
 </template>
 
 <script setup>

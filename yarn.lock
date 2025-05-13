@@ -1288,6 +1288,11 @@ vue@^3.5.13:
     "@vue/server-renderer" "3.5.13"
     "@vue/shared" "3.5.13"
 
+vuetify@^3.4.0-beta.1:
+  version "3.8.4"
+  resolved "https://registry.npmjs.org/vuetify/-/vuetify-3.8.4.tgz#3d3316868d789407c6fb5adb26ad90a0e09b6dfc"
+  integrity sha512-hfA1eqA6vhrF5LF8Yfk0uHdNUmh8Uckxn5wREiThO82HW/9Vfreh+IpxPgEtCsAhV33KW+NVamltQCu3HczRKw==
+
 which@^2.0.1:
   version "2.0.2"
   resolved "https://registry.npmjs.org/which/-/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"

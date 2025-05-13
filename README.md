@@ -14,8 +14,12 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Keep only necessary files
 
-```sh
-npm run build
-```
+* have a .yarnrc file in root
+* contents: registry=https://registry.npmjs.org/  
+* instead of yarn install: yarn install --registry=https://registry.npmjs.org/ 
+* may need to remove node modules if installing again
+
+
+
