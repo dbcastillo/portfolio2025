@@ -63,13 +63,13 @@
 
         <v-col class="d-flex flex-column ga-8" cols="12" md="6">
           <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
-            <div class="mb-2 pb-10" style="display: inline-block;">
+            <div class="mb-2" style="display: inline-block;">
               <h1 class="text-h5 font-weight-bold">ABOUT ME</h1>
               <div
                   style="height: 6px; width: 100%; background-color: black; border-radius: 3px; margin: 8px 0;"
               ></div>
             </div>
-            <p>
+            <p class="mb-10">
               I'm a passionate Software Engineer with 5+ years of relevant experience. My roles in various industries
               have developed my leadership ability and strong communication skills. My ability to quickly adapt in the
               midst of change, collaborate well as a team player, and learn new concepts quickly, will make me an
