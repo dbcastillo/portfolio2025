@@ -24,7 +24,7 @@
             </p>
             <p class="mb-4 d-flex align-center">
               <v-icon class="me-2" icon="mdi-web"/>
-              derick-castillo.netlify.app
+              https://derick-castillo.netlify.app
             </p>
           </v-sheet>
 
@@ -166,11 +166,3 @@
   </v-sheet>
 </template>
 
-
-<script setup>
-
-</script>
-
-
-<style scoped>
-</style>
