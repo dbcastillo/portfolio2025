@@ -1,6 +1,11 @@
 <template>
   <v-sheet>
-    <v-container class="mb-6">
+    <v-container class="d-flex flex-column mb-6">
+      <v-sheet class="pa-6 my-10 elevation-2 rounded w-100 text-center"
+               style="background-color: #f7fcfe; min-height: 200px">
+        <h1 class="text-h1 pb-4">Derick Castillo</h1>
+        <h2 class="text-h4">Software Engineer</h2>
+      </v-sheet>
       <v-row>
         <v-col class="d-flex flex-column ga-8" cols="12" md="6">
           <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
@@ -58,7 +63,7 @@
 
         <v-col class="d-flex flex-column ga-8" cols="12" md="6">
           <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
-            <div class="mb-2" style="display: inline-block;">
+            <div class="mb-2 pb-10" style="display: inline-block;">
               <h1 class="text-h5 font-weight-bold">ABOUT ME</h1>
               <div
                   style="height: 6px; width: 100%; background-color: black; border-radius: 3px; margin: 8px 0;"
@@ -167,4 +172,3 @@
     </v-container>
   </v-sheet>
 </template>
-
