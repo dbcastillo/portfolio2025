@@ -17,9 +17,11 @@ npm run dev
 ### Keep only necessary files
 
 * have a .yarnrc file in root
-* contents: registry=https://registry.npmjs.org/  
-* instead of yarn install: yarn install --registry=https://registry.npmjs.org/ 
+* contents: registry=https://registry.npmjs.org/
+* instead of yarn install: yarn install --registry=https://registry.npmjs.org/
 * may need to remove node modules if installing again
+* may need to yarn cache clean
+* for adding any dependencies, yarn add <dependency> -registry=https://registry.npmjs.org/
 
 
 
