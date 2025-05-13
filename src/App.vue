@@ -24,7 +24,9 @@
             </p>
             <p class="mb-4 d-flex align-center">
               <v-icon class="me-2" icon="mdi-web"/>
-              https://derick-castillo.netlify.app
+              <a href="https://derick-castillo.netlify.app" rel="noopener noreferrer" target="_blank">
+                derick-castillo.netlify.app
+              </a>
             </p>
           </v-sheet>
 
