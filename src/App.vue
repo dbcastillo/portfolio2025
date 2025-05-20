@@ -6,8 +6,8 @@
         <h1 class="text-h1 pb-4">Derick Castillo</h1>
         <h2 class="text-h4">Software Engineer</h2>
       </v-sheet>
-      <v-row>
-        <v-col class="d-flex flex-column ga-8" cols="12" md="6">
+      <v-row class="fill-height">
+        <v-col class="d-flex flex-column ga-8 h-100" cols="12" md="6">
           <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
             <div class="mb-2" style="display: inline-block;">
               <h1 class="text-h5 font-weight-bold">MY CONTACT</h1>
@@ -59,9 +59,44 @@
               <li>VS Code / IntelliJ</li>
             </ul>
           </v-sheet>
+          <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
+            <div class="mb-2" style="display: inline-block;">
+              <h1 class="text-h5 font-weight-bold">EDUCATION</h1>
+              <div
+                style="height: 6px; width: 100%; background-color: black; border-radius: 3px; margin: 8px 0;"
+              ></div>
+            </div>
+            <div class="mb-4">
+              <p class="text-subtitle-1 font-weight-bold">Flatiron School</p>
+              <p class="text-body-2">Software Engineering</p>
+              <p>2018</p>
+            </div>
+            <div class="mb-4">
+              <p class="text-subtitle-1 font-weight-bold">Triton College</p>
+              <p class="text-body-2">Nuclear Medicine</p>
+              <p>2011</p>
+            </div>
+          </v-sheet>
+          <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
+                      <div class="mb-2" style="display: inline-block;">
+                        <h1 class="text-h5 font-weight-bold">AFFILIATIONS</h1>
+                        <div
+                          style="height: 6px; width: 100%; background-color: black; border-radius: 3px; margin: 8px 0;"
+                        ></div>
+                      </div>
+                      <div class="mb-4">
+                        <p class="text-subtitle-1 font-weight-bold">Moove DJ Group</p>
+                        <p class="text-body-2">Professional Wedding Emcee and DJ</p>
+                        <p class="text-body-2">Occasional Private Events</p>
+                      </div>
+                      <div class="mb-4">
+                        <p class="text-subtitle-1 font-weight-bold">Church of the City Nashville Volunteer</p>
+                        <p class="text-body-2">Serve at Room-at-the-Inn Homeless Shelter</p>
+                      </div>
+                    </v-sheet>
         </v-col>
 
-        <v-col class="d-flex flex-column ga-8" cols="12" md="6">
+        <v-col class="d-flex flex-column ga-8  h-100" cols="12" md="6">
           <v-sheet class="pa-4 elevation-2 rounded" style="background-color: #f7fcfe">
             <div class="mb-2" style="display: inline-block;">
               <h1 class="text-h5 font-weight-bold">ABOUT ME</h1>
