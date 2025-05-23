@@ -128,7 +128,7 @@
                 <span class="mx-2">-</span>
                 <span>Software Engineer</span>
                 <span class="mx-2">-</span>
-                <span>2023–Current</span>
+                <span>2023–2025</span>
               </p>
               <ul class="pl-8">
                 <li class="mb-2">Support a team of real estate coaches by developing UI enhancements on a dashboard
@@ -147,7 +147,7 @@
               <p class="mb-2 text-subtitle-1 font-weight-bold">
                 <span>7-Eleven</span>
                 <span class="mx-2">-</span>
-                <span>Fullstack Software Engineer</span>
+                <span>Software Engineer</span>
                 <span class="mx-2">-</span>
                 <span>2022-2023</span>
               </p>
@@ -165,7 +165,7 @@
               <p class="mb-2 text-subtitle-1 font-weight-bold">
                 <span>Cognizant</span>
                 <span class="mx-2">-</span>
-                <span>Fullstack Software Engineer</span>
+                <span>Software Engineer</span>
                 <span class="mx-2">-</span>
                 <span>2021</span>
               </p>
