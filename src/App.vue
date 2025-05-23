@@ -126,7 +126,7 @@
               <p class="mb-2 text-subtitle-1 font-weight-bold">
                 <span>Ramsey Solutions</span>
                 <span class="mx-2">-</span>
-                <span>Software Engineer 2</span>
+                <span>Software Engineer</span>
                 <span class="mx-2">-</span>
                 <span>2023–Current</span>
               </p>
